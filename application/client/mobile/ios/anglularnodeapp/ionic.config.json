@@ -1,0 +1,7 @@
+{
+  "name": "anglularnodeapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

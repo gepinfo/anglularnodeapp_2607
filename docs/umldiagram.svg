@@ -1,0 +1,89 @@
+<svg version="1.1" baseProfile="full" width="652.0" height="306.0" viewbox="0 0 652 306" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+<desc >#.interface: fill=lightblue
+#.enumeration: fill=lightgreen
+#.type: fill=lightgray
+[&lt;interface&gt;entity1|+created_date: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date: { type: Date; };+empid: { type: String; };+Enter_Name: { type: String; }|]
+[&lt;interface&gt;entity2|+created_date: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date: { type: Date; };+empid: { type: String; ref: &quot;entity1&quot;; };+enter_name: { type: String; }|]</desc>
+<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+<g font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+<g stroke="transparent" fill="transparent">
+<rect x="0.0" y="0.0" height="306.0" width="652.0" stroke="none"></rect>
+</g>
+<g transform="translate(8, 8)" fill="#33322E">
+<g transform="translate(20, 20)">
+<g data-name="entity1">
+<g fill="lightblue" stroke="#33322E" data-name="entity1">
+<rect x="0.0" y="7.5" height="235.0" width="278.0" data-name="entity1"></rect>
+<path d="M0.0 38.5 L278.0 38.5" fill="none" data-name="entity1"></path>
+<path d="M0.0 234.5 L278.0 234.5" fill="none" data-name="entity1"></path>
+</g>
+<g transform="translate(0, 7.5)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="entity1">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="entity1">
+<a id="../application/services/diagrams/serviceModels/entity1.ts.entity1" xlink:href="../application/services/diagrams/serviceModels/entity1.ts"><text x="131.0" y="13.5" stroke="none" text-anchor="middle" data-name="entity1">entity1</text></a>
+
+</g>
+</g>
+<g transform="translate(0, 38.5)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="entity1">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="entity1">
+<text x="0.0" y="13.5" stroke="none" data-name="entity1">+created_date: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="entity1">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="entity1">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="entity1">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="entity1">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="entity1">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="entity1">+last_modified_date: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="entity1">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="entity1">+empid: { type: String</text>
+<text x="0.0" y="148.5" stroke="none" data-name="entity1">}</text>
+<text x="0.0" y="163.5" stroke="none" data-name="entity1">+Enter_Name: { type: String</text>
+<text x="0.0" y="178.5" stroke="none" data-name="entity1">}</text>
+
+</g>
+</g>
+<g transform="translate(0, 234.5)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="entity1">
+<g transform="translate(8, 8)" fill="#33322E" data-name="entity1">
+
+</g>
+</g>
+</g>
+<g data-name="entity2">
+<g fill="lightblue" stroke="#33322E" data-name="entity2">
+<rect x="318.0" y="0.0" height="250.0" width="278.0" data-name="entity2"></rect>
+<path d="M318.0 31.0 L596.0 31.0" fill="none" data-name="entity2"></path>
+<path d="M318.0 242.0 L596.0 242.0" fill="none" data-name="entity2"></path>
+</g>
+<g transform="translate(318, 0)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="entity2">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="entity2">
+<a id="../application/services/diagrams/serviceModels/entity2.ts.entity2" xlink:href="../application/services/diagrams/serviceModels/entity2.ts"><text x="131.0" y="13.5" stroke="none" text-anchor="middle" data-name="entity2">entity2</text></a>
+
+</g>
+</g>
+<g transform="translate(318, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="entity2">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="entity2">
+<text x="0.0" y="13.5" stroke="none" data-name="entity2">+created_date: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="entity2">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="entity2">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="entity2">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="entity2">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="entity2">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="entity2">+last_modified_date: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="entity2">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="entity2">+empid: { type: String</text>
+<text x="0.0" y="148.5" stroke="none" data-name="entity2">ref: &quot;entity1&quot;</text>
+<text x="0.0" y="163.5" stroke="none" data-name="entity2">}</text>
+<text x="0.0" y="178.5" stroke="none" data-name="entity2">+enter_name: { type: String</text>
+<text x="0.0" y="193.5" stroke="none" data-name="entity2">}</text>
+
+</g>
+</g>
+<g transform="translate(318, 242)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="entity2">
+<g transform="translate(8, 8)" fill="#33322E" data-name="entity2">
+
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
